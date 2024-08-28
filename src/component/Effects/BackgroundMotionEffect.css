@@ -1,0 +1,19 @@
+/* src/components/BackgroundMotionEffect.css */
+.background-container {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://via.placeholder.com/1920x1080");
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: background-position 0.1s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 0 0 10px black;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  

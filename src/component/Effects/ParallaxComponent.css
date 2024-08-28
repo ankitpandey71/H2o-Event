@@ -1,0 +1,19 @@
+/* src/components/ParallaxComponent.css */
+.parallax-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .parallax-content {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-shadow: 0 0 10px black;
+  }
+  
